@@ -1,3 +1,3 @@
-module github.com/bcho-msft/rand-string-bench
+module github.com/bahe-msft/rand-string-bench
 
 go 1.19
